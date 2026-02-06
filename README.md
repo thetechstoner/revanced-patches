@@ -69,8 +69,6 @@ repository contains a collection of ReVanced Patches.
 
 Patches are small modifications to Android apps that allow you to change the behavior of or add new features, block ads, customize the appearance, and much more.
 
-For an example repository, see [ReVanced Patches](https://github.com/revanced/revanced-patches).
-
 ## 🚀 Get started
 
 To start using this template, follow these steps:
