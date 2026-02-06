@@ -106,6 +106,7 @@ and updating the version of ReVanced Patches. It is triggered by pushing to the 
 The workflow uses the `publish` task to publish the release of ReVanced Patches
 - The `buildAndroid` task is used to build ReVanced Patches so that it can be used on Android.
 The `publish` task depends on the `buildAndroid` task, so it will be run automatically when publishing a release.
+For a complete list of all available patches, visit [revanced.app/patches](https://revanced.app/patches).
 
 ## 🚀 How to get started
 
