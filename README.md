@@ -67,8 +67,7 @@ repository contains a collection of ReVanced Patches.
 
 ## ❓ About
 
-This is a template to create a new ReVanced Patches repository.  
-The repository can have multiple patches, and patches from other repositories can be used together.
+Patches are small modifications to Android apps that allow you to change the behavior of or add new features, block ads, customize the appearance, and much more.
 
 For an example repository, see [ReVanced Patches](https://github.com/revanced/revanced-patches).
 
