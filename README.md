@@ -118,7 +118,7 @@ You can find the contribution guidelines [here](CONTRIBUTING.md).
 
 ### 🛠️ Building
 
-To build ReVanced Patches template,
+To build ReVanced Patches,
 you can follow the [ReVanced documentation](https://github.com/ReVanced/revanced-documentation).
 
 ## 📜 Licence
