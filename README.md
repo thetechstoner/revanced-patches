@@ -113,7 +113,7 @@ The `publish` task depends on the `buildAndroid` task, so it will be run automat
 
 ### 📙 Contributing
 
-Thank you for considering contributing to ReVanced Patches template.  
+Thank you for considering contributing to ReVanced Patches.  
 You can find the contribution guidelines [here](CONTRIBUTING.md).
 
 ### 🛠️ Building
