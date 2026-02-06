@@ -88,10 +88,6 @@ that are included in the repository), the [issue templates](.github/ISSUE_TEMPLA
 
 🎉 You are now ready to start creating patches!
 
-[^1]: [Example README.md file](https://github.com/ReVanced/revanced-patches/blob/main/README.md)
-[^2]: [Example issue templates](https://github.com/ReVanced/revanced-patches/tree/main/.github/ISSUE_TEMPLATE)
-[^3]: [Example contribution guidelines](https://github.com/ReVanced/revanced-patches/blob/main/CONTRIBUTING.md)
-
 ## 🔘 Optional steps
 
 You can also add the following things to the repository:
