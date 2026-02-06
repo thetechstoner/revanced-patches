@@ -84,14 +84,6 @@ and the [About](patches/build.gradle.kts#L5-L11))
 5. Set up the [README.md](README.md) file[^1] (e.g, title, description, license, summary of the patches
 that are included in the repository), the [issue templates](.github/ISSUE_TEMPLATE)[^2]  and the [contribution guidelines](CONTRIBUTING.md)[^3]
 
-🎉 You are now ready to start creating patches!
-
-## 🔘 Optional steps
-
-You can also add the following things to the repository:
-
-- API documentation, if you want to publish your patches as a library
-
 ## 🧑‍💻 Usage
 
 To develop and release ReVanced Patches using this template, some things need to be considered:
