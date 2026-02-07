@@ -69,6 +69,17 @@ repository contains a collection of ReVanced Patches.
 
 Patches are small modifications to Android apps that allow you to change the behavior of or add new features, block ads, customize the appearance, and much more.
 
+## 💪 Features
+
+Some of the features the patches provide are:
+
+* 🚫 **Block ads**: Say goodbye to ads
+* ⭐ **Customize your app**: Personalize the appearance of apps with various layouts and themes
+* 🪄 **Add new features**: Extend the functionality of apps with lots of new features
+* ⚙️ **Miscellaneous and general purpose**: Rename packages, enable debugging, disable screen capture restrictions,
+  export activities, etc.
+* ✨ **And much more!**
+
 For a complete list of all available patches, visit [revanced.app/patches](https://revanced.app/patches).
 
 ## 🚀 How to get started
