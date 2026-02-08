@@ -16,7 +16,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/inotia00/revanced-patches")
+            url = uri("https://maven.pkg.github.com/thetechstoner/revanced-patches")
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
